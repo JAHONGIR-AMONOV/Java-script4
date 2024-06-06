@@ -1,4 +1,4 @@
-let name ='Alex'
+let name ='Alex'.trim()
 let money ='10000'
 let account =7777
 
